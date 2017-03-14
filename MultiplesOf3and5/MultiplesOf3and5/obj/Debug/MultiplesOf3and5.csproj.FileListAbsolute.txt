@@ -1,0 +1,6 @@
+c:\users\amy\documents\visual studio 2013\Projects\MultiplesOf3and5\MultiplesOf3and5\bin\Debug\MultiplesOf3and5.exe.config
+c:\users\amy\documents\visual studio 2013\Projects\MultiplesOf3and5\MultiplesOf3and5\bin\Debug\MultiplesOf3and5.exe
+c:\users\amy\documents\visual studio 2013\Projects\MultiplesOf3and5\MultiplesOf3and5\bin\Debug\MultiplesOf3and5.pdb
+c:\users\amy\documents\visual studio 2013\Projects\MultiplesOf3and5\MultiplesOf3and5\obj\Debug\MultiplesOf3and5.csprojResolveAssemblyReference.cache
+c:\users\amy\documents\visual studio 2013\Projects\MultiplesOf3and5\MultiplesOf3and5\obj\Debug\MultiplesOf3and5.exe
+c:\users\amy\documents\visual studio 2013\Projects\MultiplesOf3and5\MultiplesOf3and5\obj\Debug\MultiplesOf3and5.pdb
